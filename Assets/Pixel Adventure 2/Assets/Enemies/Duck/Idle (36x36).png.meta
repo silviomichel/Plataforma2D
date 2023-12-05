@@ -55,7 +55,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -200,10 +200,10 @@ TextureImporter:
       name: Idle (36x36)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,10 +221,10 @@ TextureImporter:
       name: Idle (36x36)_1
       rect:
         serializedVersion: 2
-        x: 36
+        x: 37
         y: 0
-        width: 36
-        height: 36
+        width: 34
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: Idle (36x36)_2
       rect:
         serializedVersion: 2
-        x: 72
+        x: 73
         y: 0
-        width: 36
-        height: 36
+        width: 34
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Idle (36x36)_3
       rect:
         serializedVersion: 2
-        x: 108
+        x: 110
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: Idle (36x36)_4
       rect:
         serializedVersion: 2
-        x: 144
+        x: 146
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: Idle (36x36)_5
       rect:
         serializedVersion: 2
-        x: 180
+        x: 182
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: Idle (36x36)_6
       rect:
         serializedVersion: 2
-        x: 216
+        x: 218
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: Idle (36x36)_7
       rect:
         serializedVersion: 2
-        x: 252
+        x: 254
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +368,10 @@ TextureImporter:
       name: Idle (36x36)_8
       rect:
         serializedVersion: 2
-        x: 288
+        x: 290
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: Idle (36x36)_9
       rect:
         serializedVersion: 2
-        x: 324
+        x: 326
         y: 0
-        width: 36
-        height: 36
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,17 +417,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Idle (36x36)_0: -2439118624535714497
-      Idle (36x36)_1: 2701706062545998734
-      Idle (36x36)_2: -2829550139114208647
+      Idle (36x36)_7: 4516730069464227159
       Idle (36x36)_3: 7459741794640762712
+      Idle (36x36)_0: -2439118624535714497
+      Idle (36x36)_2: -2829550139114208647
+      Idle (36x36)_8: -734777341448984772
       Idle (36x36)_4: -3281148535671533933
+      Idle (36x36)_1: 2701706062545998734
       Idle (36x36)_5: -6465537371296657969
       Idle (36x36)_6: -2157390290236739254
-      Idle (36x36)_7: 4516730069464227159
-      Idle (36x36)_8: -734777341448984772
       Idle (36x36)_9: -3628324862726657110
-  mipmapLimitGroupName: 
+  spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
